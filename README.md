@@ -11,11 +11,12 @@ Bootstrap integrasi GitHub, Supabase, dan Vercel untuk proyek ESS Karyawan TGH.
 
 ## Langkah Hubungkan GitHub
 
-1. Buat repository kosong di GitHub dengan nama `ess-karyawan-tgh`
+1. Gunakan repository GitHub:
+   - `https://github.com/triosptr/ess-trendhorizone-2026.git`
 2. Tambahkan remote:
 
 ```bash
-git remote add origin https://github.com/triosaputra/ess-karyawan-tgh.git
+git remote add origin https://github.com/triosptr/ess-trendhorizone-2026.git
 ```
 
 3. Commit awal dan push:
