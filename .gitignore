@@ -2,6 +2,7 @@
 .env.local
 .vercel
 node_modules
+.next
 dist
 build
 .DS_Store
